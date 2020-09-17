@@ -1,0 +1,40 @@
+May 07, 2020 12:50:54 PM Assignment4UDPServerFTP LoggingFiles
+INFO: Uncommon Files Information
+May 07, 2020 12:50:57 PM ServerThread1 run
+INFO: Start Time: 12:50:57.499245 - Started to receive the file: /home/vmtwo/Desktop/ClientSource/ClientFile.txt from client to server of size: 11064
+May 07, 2020 12:50:57 PM ServerThread1 run
+INFO: End Time: 12:50:57.697599 - File: /home/vmtwo/Desktop/ClientSource/ClientFile.txt is successfully received from client to server of size: 11064
+May 07, 2020 12:50:57 PM ServerThread1 run
+INFO: Start Time: 12:50:57.735139 - Started to receive the file: /home/vmtwo/Desktop/ClientSource/ClientFile.png from client to server of size: 709290
+May 07, 2020 12:50:59 PM ServerThread1 run
+WARNING: Connection was failed but established again. No of packet lost = 2
+May 07, 2020 12:50:59 PM ServerThread1 run
+INFO: Start Time: 12:50:59.203195 - Started to send the file: /home/vmone/Desktop/ServerSource/ServerFile.txt from server to client of size: 11064
+May 07, 2020 12:50:59 PM ServerThread1 run
+INFO: End Time: 12:50:59.435831 - File: /home/vmone/Desktop/ServerSource/ServerFile.txt is fully transmitted from server to client of size: 11064
+May 07, 2020 12:50:59 PM ServerThread1 run
+INFO: Start Time: 12:50:59.456458 - Started to send the file: /home/vmone/Desktop/ServerSource/ServerFile.png from server to client of size: 709290
+May 07, 2020 12:51:09 PM ServerThread1 run
+INFO: End Time: 12:51:09.333845 - File: /home/vmtwo/Desktop/ClientSource/ClientFile.png is successfully received from client to server of size: 709290
+May 07, 2020 12:51:10 PM ServerThread1 run
+INFO: Start Time: 12:51:10.128784 - Started to receive the file: /home/vmtwo/Desktop/ClientSource/ClientFile.pdf from client to server of size: 32452164
+May 07, 2020 12:51:11 PM ServerThread1 run
+INFO: End Time: 12:51:11.250268 - File: /home/vmone/Desktop/ServerSource/ServerFile.png is fully transmitted from server to client of size: 709290
+May 07, 2020 12:51:25 PM ServerThread1 run
+INFO: Start Time: 12:51:24.640617 - Started to send the file: /home/vmone/Desktop/ServerSource/ServerFile.mp4 from server to client of size: 66324520
+May 07, 2020 12:54:26 PM ServerThread1 run
+INFO: Failed Connection: 0.0% of /home/vmone/Desktop/ServerSource/ServerFile.mp4file was successfully transferred
+May 07, 2020 12:54:26 PM ServerThread1 run
+WARNING: Connection was failed but established again. Number of Packet of file /home/vmone/Desktop/ServerSource/ServerFile.mp4 and of sequence number 10268 lost = 2
+May 07, 2020 12:55:21 PM ServerThread1 run
+INFO: Failed Connection: 0.0% of /home/vmone/Desktop/ServerSource/ServerFile.mp4file was successfully transferred
+May 07, 2020 12:55:21 PM ServerThread1 run
+WARNING: Connection was failed but established again. Number of Packet of file /home/vmone/Desktop/ServerSource/ServerFile.mp4 and of sequence number 13368 lost = 2
+May 07, 2020 1:00:10 PM ServerThread1 run
+INFO: End Time: 13:00:10.871773 - File: /home/vmtwo/Desktop/ClientSource/ClientFile.pdf is successfully received from client to server of size: 32452164
+May 07, 2020 1:09:16 PM ServerThread1 run
+INFO: End Time: 13:09:16.226477 - File: /home/vmone/Desktop/ServerSource/ServerFile.mp4 is fully transmitted from server to client of size: 66324520
+May 07, 2020 1:09:21 PM ServerThread1 run
+INFO: Total number of Connections Established: 3
+May 07, 2020 1:09:21 PM ServerThread1 run
+INFO: Total number of Packets Lost: 6
